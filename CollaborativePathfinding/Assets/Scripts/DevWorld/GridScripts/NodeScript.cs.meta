@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a1a4442bb1597ed43aa22d2b94e78a63
+timeCreated: 1524485332
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - edgeTemplate: {fileID: 1363339188220316, guid: 424c7fc9447a9894490f258ec3ccaf07,
+      type: 2}
+  - myManager: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
